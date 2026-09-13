@@ -1,4 +1,4 @@
-# HA Vertical Action Card
+# Vertical Action Card
 
 A compact, vertical Lovelace card with three interchangeable views for a single entity:
 
@@ -18,7 +18,7 @@ Built for the **Sections** dashboard layout, with Home Assistant's own domain co
 
 1. HACS → **Frontend** → ⋮ → **Custom repositories**.
 2. Add this repository URL, category **Dashboard**.
-3. Install **HA Vertical Action Card**, then reload your browser.
+3. Install **Vertical Action Card**, then reload your browser.
 
 ### Manual
 
@@ -34,7 +34,7 @@ Built for the **Sections** dashboard layout, with Home Assistant's own domain co
 
 ## Adding the card
 
-In a **Sections** view, add a card and search for **HA Vertical Action Card**, or use YAML:
+In a **Sections** view, add a card and search for **Vertical Action Card**, or use YAML:
 
 ```yaml
 type: custom:ha-vertical-action-card
