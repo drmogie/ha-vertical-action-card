@@ -564,7 +564,7 @@ null == n4 || n4({ LitElement: s4 });
 var CARD_TYPE = "ha-vertical-action-card";
 var EDITOR_TYPE = "ha-vertical-action-card-editor";
 var CARD_NAME = "Vertical Action Card";
-var CARD_VERSION = "2026.09.12.1";
+var CARD_VERSION = "2026.09.30.01";
 var VIEW_SWITCH = "switch";
 var VIEW_SLIDER = "slider";
 var VIEW_PRESET = "preset";
